@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My-Web-Page.HTML</title>
+</head>
+<body>
+
+<h1><mark> ADVANCED TECHNOLOGY</mark></h1>
+<p><b>Advanced technology is defined as a new or developing IT innovation that still has relatively few users, yet promises to provide future, significant value. While this term differs from both advanced manufacturing and manufacturing technology, they have relationships with one another.Technology is the most useful form of science for the general population.</b></p>
+
+<p><b>High technology is also known as advanced technology (advanced tech) or exotechnology, is technology that is at the cutting edge: the highest form of technology available. It can be defined as either the most complex or the newest technology on the market.</b></p>
+
+<img src="https://blog.universalbusinessschool.com/wp-content/uploads/2021/04/Modern-Technology_Blog.png"  width="500";height="400"; alt="Italian Trulli">
+
+</body>
+</html>
+
